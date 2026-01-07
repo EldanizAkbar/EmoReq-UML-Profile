@@ -52,9 +52,9 @@ This repository is organized as an Eclipse Papyrus project.
   The Papyrus **architecture representation file** for the example model. It manages diagram definitions, viewpoints, and diagram organization for the Online Learning Platform scenario.
   
 
-### 🔹 Eclipse Project File
+### 🔹 Papyrus Project File
 - **`.project`**  
-  Eclipse project configuration file required to import and recognize the project correctly within the Eclipse workspace.
+  Papyrus project configuration file required to import and recognize the project correctly within the Papyrus workspace.
 
 ---
 ## 🚀 How to Use the EmoReq UML Profile (Step-by-Step)
