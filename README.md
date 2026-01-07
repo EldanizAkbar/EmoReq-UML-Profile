@@ -21,7 +21,9 @@ In addition, the project defines **OCL constraints** that allow automated valida
 ---
 ## 📁 Repository Structure
 
-This repository is organized as an **Eclipse Papyrus project** and contains the following files:
+This repository is organized as an Eclipse Papyrus project.
+
+📦 After unzipping **`EmoReqProjectNew.zip`**, you will see the following files and folders in the project root:
 
 ### 🔹 UML Profile Files
 - **`EmoReq_profile.profile.uml`**  
