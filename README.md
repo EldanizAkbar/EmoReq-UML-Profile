@@ -33,6 +33,9 @@ This repository is organized as an **Eclipse Papyrus project** and contains the 
 - **`EmoReq_profile.profile.di`**  
   The Papyrus **diagram interchange file** that links the profile model with its diagrams. This is the main entry file for opening the profile in Papyrus.
 
+- **`EmoReq_profile.profile.aird`**  
+  The Papyrus **architecture and diagram management file**. It stores information about available diagrams, active viewpoints, and how the EmoReq UML Profile diagrams are organized within the Papyrus workspace. Required to correctly load and manage profile diagrams.
+
 ### 🔹 Example Model Files
 - **`model.uml`**  
   An example UML model based on an **Online Learning Platform** scenario, demonstrating how the EmoReq profile can be applied in a practical context.
@@ -42,6 +45,10 @@ This repository is organized as an **Eclipse Papyrus project** and contains the 
 
 - **`model.di`**  
   The Papyrus diagram interchange file for the Online Learning Platform example. This file should be opened to view and edit the example diagrams in Papyrus.
+
+- **`model.aird`**  
+  The Papyrus **architecture representation file** for the example model. It manages diagram definitions, viewpoints, and diagram organization for the Online Learning Platform scenario.
+  
 
 ### 🔹 Eclipse Project File
 - **`.project`**  
