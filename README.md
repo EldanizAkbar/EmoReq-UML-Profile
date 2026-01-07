@@ -73,9 +73,12 @@ Download the repository as a ZIP file from GitHub and extract it to a local dire
 
 ### 2️⃣ Install the required tools
 Make sure you have:
-- **Java (JDK 11 or later recommended)**
-- **Eclipse IDE**
-- **Eclipse Papyrus** (UML + OCL support)
+- **Eclipse Papyrus**
+  - Download Eclipse Papyrus Desktop from the official site: https://eclipse.dev/papyrus/download.html#desktop
+    - Select and download Papyrus 2024-06 Release (version 6.7.0)
+      
+> **Note:** This project was developed using Papyrus **version 6.7.0**.  
+> To avoid compatibility issues or unexpected errors when opening or editing the models, please use the same version.  
 
 ### 3️⃣ Import the project into Papyrus
 
