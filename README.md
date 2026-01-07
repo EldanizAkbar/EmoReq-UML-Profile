@@ -81,7 +81,7 @@ Here you can view the **defined stereotypes**, **relationships**, and the **OCL 
 
 ### 4️⃣ Open the Online Learning Platform example model
 
-1. In **Eclipse**, go to **File → Open File…**
+1. In **Papyrus**, go to **File → Open File…**
 2. Navigate to the project folder
 3. Select **`model.di`**
 4. Click **Open**
@@ -106,7 +106,7 @@ The validation results will be displayed in the **Model Validation** view.
 To create your own model using the EmoReq UML Profile, follow these steps:
 
 #### Create a new Papyrus model
-1. In **Eclipse**, go to **File → New → Papyrus Model**
+1. In **Papyrus**, go to **File → New → Papyrus Model**
 2. Select **UML** and click **Next**
 3. Choose a project where **EmoReq_profile** is located
 4. Give your model a name
