@@ -83,13 +83,19 @@ Make sure you have:
 ### 3️⃣ Import the project into Papyrus
 
 1. Open **Papyrus**
-2. Go to **File → Open File…**
-3. Navigate to the project folder
-4. Select **`EmoReq_profile.profile.di`**
-5. Click **Open**
+2. Go to **File → Open Projects from File System...**
+3. Click **Archieve..** button
+4. Choose **EmoReqProjectNew.zip** and click **Finish** button
 
-The EmoReq UML Profile will open in Papyrus.  
-Here you can view the **defined stereotypes**, **relationships**, and the **OCL constraints** used for model validation.
+After the project is successfully imported, you can open it in Papyrus.
+
+5. Go to **File → Open File…**
+6. Navigate to the imported project folder in the Papyrus workspace
+7. Select **`EmoReq_profile.profile.di`**
+8. Click **Open**
+
+The **EmoReq UML Profile** will open in Papyrus.  
+You can now view the **defined stereotypes**, **relationships**, and **OCL constraints** used for model validation.
 
 ### 4️⃣ Open the Online Learning Platform example model
 
